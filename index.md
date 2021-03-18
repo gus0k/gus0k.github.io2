@@ -18,12 +18,6 @@
   </article>
 {% endfor %}
 
-<!-- Html Elements for Search -->
-<div id="search-container">
-<input type="text" id="search-input" placeholder="search...">
-<ul id="results-container"></ul>
-</div>
-
 <!-- Script pointing to search-script.js -->
 <script src="assets/js/jekyll-search.js" type="text/javascript"></script>
 
